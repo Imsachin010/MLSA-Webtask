@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/flower.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "Flower";
 
 /**
  * Project list
@@ -31,16 +31,16 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Portfolio Website 🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "This website is my personel portfolio website created using basic HTML, Tailwind css and node.Js",
+    url: "https://imsachin010.github.io/Sachin_Portfolio/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Annacode Farmers Hub",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "The farmer engaged in farming and living in villages don't have affordable and best crop selection strategies and the proper value of their products due to improper reach to the market.",
+    url: "https://anna-code.vercel.app/",
   },
   {
     title: "My Resume Site",
