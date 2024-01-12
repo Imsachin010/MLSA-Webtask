@@ -45,14 +45,14 @@ const projectList = [
   {
     title: "My Resume Site",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Visit my resume for best employee to hire, for your company!!.",
+    url: "https://drive.google.com/file/d/1vf4qA1Ez_P97MmZTne5sKdKVgNWBjQtA/view?usp=drive_link",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Samriddhi",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Samridhhi For One Smile : Samridhhi is a platform where we manage the food wastage by the help of our volunteers.",
+    url: "https://the-technocrates.github.io/Samriddhi/",
   },
 ];
 
